@@ -1,0 +1,3 @@
+rootProject.name = 'Asset'
+
+include ':AssetService'
