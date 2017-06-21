@@ -1,3 +1,4 @@
 rootProject.name = 'Asset'
 
 include ':AssetService'
+include ':spring4-mvc-gradle-xml'
